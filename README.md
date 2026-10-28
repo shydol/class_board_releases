@@ -1,1 +1,1 @@
-# class_board_releases
+class_board 배포 페이지
